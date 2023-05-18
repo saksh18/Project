@@ -1,0 +1,6 @@
+This is a final year project for my CS degree from Swansea University
+There are two scripts:
+      - Publish  
+      - Subscriber
+These have been written in such a way that they can be used with any 
+IoT device (especially in Cars). 
