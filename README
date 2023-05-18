@@ -4,3 +4,9 @@ There are two scripts:
       - Subscriber
 These have been written in such a way that they can be used with any 
 IoT device (especially in Cars). 
+There can be many applications using these two files and to keep things simple, 
+I have only uploaded these scripts as they can be a starting point for further 
+Research. 
+- I have not uploaded other test files etc. aas these are the most relevant 
+and they are essentially the result of this project. 
+
