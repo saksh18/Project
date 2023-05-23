@@ -17,6 +17,8 @@ from Crypto.Random import get_random_bytes
 from Crypto.PublicKey import RSA 
 from Crypto.Signature import pkcs1_15
 
+#Author : Saksham Kaushik
+
 #the code for publish and subscriber is inspired from the below git repo.
 #https://github.com/amankanwar/PAHO-MQTT.git
 #AES encryption and RSA Digital signature implementation has been inspired by:
